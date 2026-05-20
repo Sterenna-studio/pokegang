@@ -1,6 +1,6 @@
-# Character Sheets (LLM)
+# Character Sheets - POKEGANG
 
-This folder contains structured character sheets used to drive coherent NPC dialog with LLMs.
+This folder contains structured character sheets used to drive coherent NPC.
 
 ## Design goals
 
@@ -30,5 +30,3 @@ Each sheet should include:
 - `pokemonPreferences` (array)
 - `possiblePokemon` (array)
 - `sprite`
-
-See `packages/npc-mind/src/character-sheet.mjs` for validation and prompt shaping.
